@@ -3,4 +3,5 @@ array.join
 array << and
 array.push ("okra")
 array.join(, and)
+array.length
 end
